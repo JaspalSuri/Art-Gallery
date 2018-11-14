@@ -92,7 +92,7 @@ Finish setting up your cell code in `cellForRoad` by setting the `likeButton`'s 
 - Create an information screen to present when you tap on an image view that shows information (you can just use "blah blah" or lorem ipsum for this). Present it with a "show" segue. You do not need to prepare for the segue as you'll be showing static content each time.
 - Change your segue from "show" to present it modally, allowing the information screen to slide up. You'll need to add a done button that allows the user to dismiss the model view when they are done reading.
 
-Stretch:
+## Stretch
 
 - Stylize the portraits by rounding the corners of each portrait and adding a border
 - Make the cells dynamically resize according to the image's height. 
